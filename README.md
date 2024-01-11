@@ -1,6 +1,5 @@
 # Francis Campos
 
-Breve descrição sobre você.
 
 ### Conecte-se comigo
 
