@@ -1,5 +1,6 @@
 # Olá, mundo! 🌎 <br> Eu sou o Francis Campos 👋
-<center>Desde 2009 no mundo da programação.</center>
+
+##### Desde 2009 no mundo da programação.
 
 🖥️ Técnico em Informática<br>
 🖥️ Graduado em Ciência da Computação<br>
