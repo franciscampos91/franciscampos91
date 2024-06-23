@@ -1,9 +1,9 @@
 # Olá, mundo! 🌎 <br> Eu sou o Francis Campos 👋
 <center>Desde 2009 no mundo da programação.</center>
 
-🖥️ Técnico em Informática
-🖥️ Graduado em Ciência da Computação 
-📱 Pós graduado em Desenvolvimento de Aplicativos Mobile
+🖥️ Técnico em Informática<br>
+🖥️ Graduado em Ciência da Computação<br>
+📱 Pós graduado em Desenvolvimento de Aplicativos Mobile<br>
 🧮 Graduando Matemática
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciscampos91&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=franciscampos91&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
