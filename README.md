@@ -2,6 +2,11 @@
 
 ##### Desde 2009 no mundo da programação.
 
+<img src="https://github.com/franciscampos91/franciscampos91/blob/main/assets/images/mario.jpg" alt="Mario" height="300">
+
+
+
+
 🖥️ Técnico em Informática<br>
 🖥️ Graduado em Ciência da Computação<br>
 📱 Pós graduado em Desenvolvimento de Aplicativos Mobile<br>
